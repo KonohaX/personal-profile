@@ -68,6 +68,8 @@ h2 {font-size:46px; font-weight:normal;}
 #fifth-part .part5-content .exp-box .pro2 dt{width: 100px;height:100px;background: url("../img/imooc.jpg") center no-repeat;background-size: 100px 100px;display: block;border-radius: 100%;margin: 0 auto}
 #fifth-part .part5-content .exp-box .pro2 dd{height:30px;line-height: 40px;font:20px 微软雅黑;color: #fff;text-align: center}
 #fifth-part .part5-content .exp-box .pro2 dd:nth-child(2){margin-top: 30px}
+#fifth-part .part5-content .exp-box .pro2 dd a{color: #fff}
+#fifth-part .part5-content .exp-box .pro2 dd a:hover{color: #ccc;text-decoration: underline}
 
 /* last-communication */
 #last-com{width: 100%;height: auto;background-color: #333;padding: 20px 0 10px 0;min-width: 300px}
