@@ -18,7 +18,7 @@ h2 {font-size:46px; font-weight:normal;}
 #nav a:hover{color: #ccc}
 #nav ul li{width: 100px;height:100%;display: inline-block;text-align: center}
 /* second part*/
-#second-part{height:auto; width:100%; background-color:#1889C5; padding:60px 0 160px;}
+#second-part{height:auto; width:100%; background-color:#1889C5; padding:120px 0 360px;}
 #intro-icon{width: 70%;margin: 0 auto}
 #intro-icon img{width: 150px;height: 150px;border-radius: 100%}
 #intro-icon a{width:100px;height: 100px;background-color: #000;border-radius: 100%;display: inline-block;-webkit-transition:0.4s linear;transition:0.4s ease-in; }
